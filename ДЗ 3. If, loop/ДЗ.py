@@ -7,11 +7,64 @@
 #
 # В качестве решения отправить ссылку на github репозиторий.
 
-a = int(input('Enter number A: '))
-b = int(input('Enter number B: '))
-c = int(input('Enter number C: '))
+# 1
+# a = int(input('Enter number A: '))
+# b = int(input('Enter number B: '))
+# c = int(input('Enter number C: '))
+#
+# if a > 10 and a % 3 == 0 and b > 10 and b % 3 == 0 and c > 10:
+#     print('yes')
+# else:
+#     print('no')
 
-if a > 10 and a % 3 == 0 and b > 10 and b % 3 == 0 and c > 10:
-    print('yes')
-else:
-    print('no')
+
+# 2.0
+# a = int(input('Enter number A: '))
+# b = int(input('Enter number B: '))
+# c = int(input('Enter number C: '))
+#
+# print (max(a, b, c))
+
+
+# 2.1
+# a = int(input('Enter number A: '))
+# b = int(input('Enter number B: '))
+# c = int(input('Enter number C: '))
+#
+# if a > b and a > c:
+#     print( a )
+# if b > a and b > c:
+#     print( b )
+# if c > a and c > b:
+#     print( c )
+
+
+# 2.2
+# a = int(input('Enter number A: '))
+# b = int(input('Enter number B: '))
+# c = int(input('Enter number C: '))
+#
+# if a >= b and a >= c:
+#     print( a )
+# elif b >= a and b >= c:
+#     print( b )
+# else:
+#     print( c )
+
+
+# 2.3
+# a = int(input('Enter number A: '))
+# b = int(input('Enter number B: '))
+# c = int(input('Enter number C: '))
+#
+# print( a if a >= b and a >= c else b if b >= a and b >= c else c )
+
+
+# 3
+# a = int(input('Enter number A: '))
+# b = int(input('Enter number B: '))
+# summch = 0
+# for i in range(a, b, + 1):
+#     if i % 2 == 0:
+#         summch += i
+#         print("Сумма четных: ", summch)
