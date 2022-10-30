@@ -25,12 +25,14 @@
 # else:
 #   print('-')
 
+
 # 1.1
 # a = str(input('Enter a word: '))
 # if a == a[::-1]:
 #     print('+')
 # else:
 #     print('-')
+
 
 # 2
 # a = str(input('Enter text: '))
@@ -41,30 +43,48 @@
 #     print('NO')
 
 
+# 3
 # a = str(input('Enter text: '))
-# b = str(input('Enter find word: '))
-# index = a.find('b'):
-#     print(index)
+# if a:[:3] == 'abc':
+#      a = 'www' + a[3:]
+#    else:
+#      a += 'zzz'
+#    return a
+# print(a)
 
 
+# 3
 # a = str(input('Enter text: '))
-# s = 'a'
-# if s.startswith('abc'):
-#     return 'www' + s[3:]
-# return s + 'zzz'
+# def f(a):
+#     if a.startswith('abc'):
+#         return 'www' + a[3:]
+#     return a + 'zzz'
+# print( f(a) )
 
+
+# 3.1
 # a = str(input('Enter text: '))
-# b = str(input('Enter find word: '))
-# if a.find('cat') and a == b:
+# def f(a):
+#     if a[:3] == 'abc':
+#         a = 'www' + a[3:]
+#     else:
+#         a += 'zzz'
+#     return a
+# print( f(a) )
+
+
+# 4
+# a = str(input('Enter text: '))
+#
+# import re
+# a1 = re.sub('[1|2|3|4|5|6|7|8|9|0]', '', a)
+# print (a1)
+
+
+# 5
+# a = str(input('Enter your mail: '))
+# if a.find('@') != -1 and a.find('.') != -1:
 #     print('YES')
 # else:
 #     print('NO')
-
-
-# a = str(input('Enter text: '))
-# if a.find('@','.') and a.endswith('.'):
-#     print('YES')
-# else:
-#     print('NO')
-
 
