@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="277eb482-368a-4ffc-b43c-e1298e3096e7" name="Changes" comment="delete garbage" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Hillel_QA_Automation" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2022.2/python_stubs/1251956665/builtins.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GRJGfaTkzr37jq18eYnp1ozUz9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/USER/PycharmProjects/test",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="277eb482-368a-4ffc-b43c-e1298e3096e7" name="Changes" comment="" />
+      <created>1666345369069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666345369069</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add main.py">
+      <created>1666347805378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666347805378</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change main.py">
+      <created>1666348033908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666348033908</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change main.py, README.md and add test.py">
+      <created>1666348626590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666348626590</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change test.py">
+      <created>1666348922524</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666348922524</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change .gitignore">
+      <created>1666352192808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666352192808</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change .gitignore">
+      <created>1666352257890</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666352257890</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change main.py">
+      <created>1666353841421</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666353841421</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change main.py">
+      <created>1666508486709</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666508486709</updated>
+    </task>
+    <task id="LOCAL-00009" summary="change main.py">
+      <created>1666508921193</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666508921193</updated>
+    </task>
+    <task id="LOCAL-00010" summary="change main.py">
+      <created>1666508938250</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666508938250</updated>
+    </task>
+    <task id="LOCAL-00011" summary="merging main.py">
+      <created>1666509347004</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666509347004</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changed main.py">
+      <created>1666509544567</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666509544567</updated>
+    </task>
+    <task id="LOCAL-00013" summary="changed main.py">
+      <created>1666509672179</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666509672179</updated>
+    </task>
+    <task id="LOCAL-00014" summary="changed main.py">
+      <created>1666509686550</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666509686550</updated>
+    </task>
+    <task id="LOCAL-00015" summary="merging main.py">
+      <created>1666509941291</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666509941291</updated>
+    </task>
+    <task id="LOCAL-00016" summary="merging main.py">
+      <created>1666511450040</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666511450040</updated>
+    </task>
+    <task id="LOCAL-00017" summary="merging main.py">
+      <created>1666511508114</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666511508114</updated>
+    </task>
+    <task id="LOCAL-00018" summary="changed ДЗ.md">
+      <created>1666511723285</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666511723285</updated>
+    </task>
+    <task id="LOCAL-00019" summary="changed ДЗ.py">
+      <created>1666511818757</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1666511818757</updated>
+    </task>
+    <task id="LOCAL-00020" summary="changed ДЗ.py">
+      <created>1666513110975</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1666513110975</updated>
+    </task>
+    <task id="LOCAL-00021" summary="changed ДЗ.py">
+      <created>1666612391649</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1666612391649</updated>
+    </task>
+    <task id="LOCAL-00022" summary="changed ДЗ.py">
+      <created>1666626445199</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666626445199</updated>
+    </task>
+    <task id="LOCAL-00023" summary="changed main.py 17.10 and 20.10">
+      <created>1666627831123</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666627831123</updated>
+    </task>
+    <task id="LOCAL-00024" summary="changed main.py 17.10 and 20.10">
+      <created>1666698378416</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1666698378416</updated>
+    </task>
+    <task id="LOCAL-00025" summary="create and changed ДЗ.py">
+      <created>1666703748839</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1666703748839</updated>
+    </task>
+    <task id="LOCAL-00026" summary="changed ДЗ.py">
+      <created>1666705199743</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1666705199743</updated>
+    </task>
+    <task id="LOCAL-00027" summary="changed ДЗ.py">
+      <created>1666782929655</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1666782929655</updated>
+    </task>
+    <task id="LOCAL-00028" summary="changed ДЗ.py">
+      <created>1666869790512</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1666869790512</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add and change main.py 24.10">
+      <created>1666874829755</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1666874829755</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add and change ДЗ.py строки">
+      <created>1666953018155</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1666953018155</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add 27.10 main.py">
+      <created>1666953105666</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1666953105666</updated>
+    </task>
+    <task id="LOCAL-00032" summary="change ДЗ.py строки">
+      <created>1667026112002</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1667026112002</updated>
+    </task>
+    <task id="LOCAL-00033" summary="change ДЗ.py строки">
+      <created>1667133864458</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1667133864458</updated>
+    </task>
+    <task id="LOCAL-00034" summary="change ДЗ.py строки">
+      <created>1667134640688</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1667134640688</updated>
+    </task>
+    <task id="LOCAL-00035" summary="change ДЗ.py строки">
+      <created>1667139656793</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1667139656793</updated>
+    </task>
+    <task id="LOCAL-00036" summary="change ДЗ.py строки">
+      <created>1667139672840</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1667139672840</updated>
+    </task>
+    <task id="LOCAL-00037" summary="delete garbage">
+      <created>1667141821657</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1667141821657</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Hillel_QA_Automation" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add main.py" />
+    <MESSAGE value="change main.py, README.md and add test.py" />
+    <MESSAGE value="change test.py" />
+    <MESSAGE value="change .gitignore" />
+    <MESSAGE value="change main.py" />
+    <MESSAGE value="changed main.py" />
+    <MESSAGE value="merging main.py" />
+    <MESSAGE value="changed ДЗ.md" />
+    <MESSAGE value="changed main.py 17.10 and 20.10" />
+    <MESSAGE value="create and changed ДЗ.py" />
+    <MESSAGE value="changed ДЗ.py" />
+    <MESSAGE value="add and change main.py 24.10" />
+    <MESSAGE value="add and change ДЗ.py строки" />
+    <MESSAGE value="add 27.10 main.py" />
+    <MESSAGE value="change ДЗ.py строки" />
+    <MESSAGE value="delete garbage" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete garbage" />
+  </component>
+</project>
