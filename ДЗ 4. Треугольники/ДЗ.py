@@ -14,31 +14,31 @@
 
 
 # 1
-N = int(input('Enter width of triangle #1: '))
-while N > 0:
-   print(f'#' * N)
-   N -= 1
+# N = int(input('Enter width of triangle #1: '))
+# while N > 0:
+#    print(f'#' * N)
+#    N -= 1
 
 
 # 2
-N = int(input('Enter width of triangle #2: '))
-i = 0
-while i < N:
-   i += 1
-   print(f'#' * i)
+# N = int(input('Enter width of triangle #2: '))
+# i = 0
+# while i < N:
+#    i += 1
+#    print(f'#' * i)
 
 
 # 3
-N = int(input('Enter width of triangle #3: '))
-i = 0
-while i < N:
-   print(f' ' * i + '#' * (N-i) )
-   i += 1
+# N = int(input('Enter width of triangle #3: '))
+# i = 0
+# while i < N:
+#    print(f' ' * i + '#' * (N-i) )
+#    i += 1
 
 
 # 4
-N = int(input('Enter width of triangle #4: '))
-i = 0
-while i < N:
-   i += 1
-   print(f' ' * (N-i) + '#' * i)
+# N = int(input('Enter width of triangle #4: '))
+# i = 0
+# while i < N:
+#    i += 1
+#    print(f' ' * (N-i) + '#' * i)
