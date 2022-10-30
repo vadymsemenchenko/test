@@ -36,7 +36,7 @@
 
 # 2
 # a = str(input('Enter text: '))
-# b = str(input('Enter find word: '))
+# b = str(input('Enter the word to be found: '))
 # if b in a:
 #     print('YES')
 # else:
