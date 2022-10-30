@@ -59,7 +59,7 @@
 #     if a.startswith('abc'):
 #         return 'www' + a[3:]
 #     return a + 'zzz'
-# print( f(a) )
+# print(f(a))
 
 
 # 3.1
@@ -70,15 +70,14 @@
 #     else:
 #         a += 'zzz'
 #     return a
-# print( f(a) )
+# print(f(a))
 
 
 # 4
 # a = str(input('Enter text: '))
-#
 # import re
 # a1 = re.sub('[1|2|3|4|5|6|7|8|9|0]', '', a)
-# print (a1)
+# print(a1)
 
 
 # 5
