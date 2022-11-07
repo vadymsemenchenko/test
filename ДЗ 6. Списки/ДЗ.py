@@ -119,8 +119,18 @@
 # A.reverse()
 # print(A)
 
-
 # 5
+# A = []
+#
+# for _ in range(5):
+#     number = int(input('Enter a number: '))
+#     A.append(number)
+# print(A)
+# A = [x for x in A if x > 5]
+# print(A)
+
+
+# 5.1
 # A = []
 #
 # for _ in range(5):
@@ -172,100 +182,3 @@
 #     else \
 # print('numbers not found')
 
-
-
-
-
-# s = input('enter text: ')
-# count = len(re.findall(r'\b\d+\b', s))
-# # num = [int(i) for i in A if i.isdigit()]
-# # print('amount of numbers:', len(num))
-# print(count, ' числа')
-
-
-# line=input("")
-# cnt=0
-# for s in line:
-#     if s.isdigit():
-#         cnt+=1
-# if cnt:
-#     print(cnt)
-# else:
-#     print("числа не обнаружены")
-
-# line=input("")
-# cnt=0
-# for s in line:
-#     if s.isdigit():
-#         cnt += 1
-# if cnt:
-#     print(cnt)
-# else:
-#     print("числа не обнаружены")
-
-
-
-# string = input('Введите строку ')
-# cnt = len(re.findall('\d+', string))
-# if cnt:
-#     print(cnt)
-# else:
-#     print('Числа не обнаружены')
-
-
-
-
-
-# A = []
-#
-# N = int(input('how many numbers will be in the list?: '))
-# for i in range(1,N+1):
-#     m = int(input(' ' + str(i) + ': '))
-#     A.append(m)
-# print(A)
-#
-# maximum = A[]
-# for i in A:
-#     if i > maximum:
-#         maximum = i
-# print(f'The maximum A is: {maximum}')
-
-# n = int(input())
-# maximum = int(input())
-# for i in range(n - 1):
-#    x = int(input())
-#    if x > maximum:
-#        maximum = x
-# print(maximum)
-
-# A = []
-#
-# for _ in range(10):
-#     number = int(input('Enter a number: '))
-#     list.append(number)
-#
-# print(A)
-#
-# d = int(input('Какую цифру считать? '))
-#     while number > 0:
-#         if number%10 == d:
-#             count += 1
-#         number = number // 10
-
-# print(A)
-
-
-# print(list.count(N))
-
-
-# n = int(input("Сколько будет чисел? "))
-# d = int(input("Какую цифру считать? "))
-# count = 0
-# for i in range(1,n+1):
-#     m = int(input("Число " + str(i) + ": "))
-#     while m > 0:
-#         if m%10 == d:
-#             count += 1
-#         m = m // 10
-#
-# print("Было введено %d цифр %d" % (count, d))
