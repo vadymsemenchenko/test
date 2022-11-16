@@ -51,16 +51,14 @@
 
 
 # 4
-# def read_last(lines, file):
+# def read_last(lines, f):
 #     if lines > 0:
 #         with open('file.txt') as f:
 #             f_lines = f.readlines()[-lines:]
 #         for line in f_lines:
 #             print(line.strip())
 #         else:
-#             print('Количество строк может быть только целым положительным')
+#             print('только положительное количество строк')
 #
-#
-# # Тесты
-# read_last(2, 'file.txt')
-# # read_last(2, 'file.txt')
+# read_last(3, 'file.txt')
+# read_last(-2, 'file.txt')
