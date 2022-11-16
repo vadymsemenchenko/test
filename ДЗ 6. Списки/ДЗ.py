@@ -140,18 +140,23 @@
 # print([elem for elem in A if elem > 5])
 
 
-# 6
-# import heapq
-#
+# 6 new
+# N = int(input('how many numbers would you like to enter?: '))
 # A = []
 #
-# N = int(input('how many numbers will be in the list?: '))
-# for i in range(1,N+1):
-#     m = int(input(' ' + str(i) + ': '))
-#     A.append(m)
-# print(A)
-# print('min', heapq.nsmallest(1, A))
-# print('max', heapq.nlargest(1, A))
+# for i in range(N):
+#     number = int(input(f'Enter only integer № {i + 1}: '))
+#     A.append(number)
+# max_ = A[0]
+# for x in A:
+#     if x > max_:
+#         max_ = x
+# print(f'max: {max_}')
+# min_ = A[0]
+# for x in A:
+#     if x < min_:
+#         min_ = x
+# print(f'min: {min_}')
 
 
 # 7
