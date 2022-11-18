@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="change ДЗ 8" />
+    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="change ДЗ 6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -358,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668615716508</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="change ДЗ 6">
+      <created>1668780003492</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1668780003492</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -405,8 +412,8 @@
     <MESSAGE value="change ДЗ.py списки" />
     <MESSAGE value="change ДЗ 7" />
     <MESSAGE value="change ДЗ 6 and 7" />
-    <MESSAGE value="change ДЗ 6" />
     <MESSAGE value="change ДЗ 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="change ДЗ 8" />
+    <MESSAGE value="change ДЗ 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="change ДЗ 6" />
   </component>
 </project>
