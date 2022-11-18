@@ -51,6 +51,23 @@
 
 
 # 4
+# def read_last(lines: int, file):
+#     if type(lines) == int and lines > 0:
+#         for i in range(lines):
+#             with open(f'{file}', 'r') as f:
+#                 f = f.read()
+#             f = list(f.splitlines())
+#             f.reverse()
+#             line = f[i]
+#             print(line)
+#     else:
+#         print('Entered non-positive quantity')
+#
+# read_last(-1, 'file.txt')
+
+
+# не корректно работает, это я сам для себя пробовал
+#
 # def read_last(lines, f):
 #     if lines > 0:
 #         with open('file.txt') as f:
@@ -58,7 +75,7 @@
 #         for line in f_lines:
 #             print(line.strip())
 #         else:
-#             print('только положительное количество строк')
+#             print('Entered non-positive quantity')
 #
 # read_last(3, 'file.txt')
 # read_last(-2, 'file.txt')
