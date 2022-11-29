@@ -39,3 +39,4 @@
 #
 # n = int(input('Enter an integer: '))
 # print(is_power_of_two(n))
+
