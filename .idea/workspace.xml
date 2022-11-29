@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="change ДЗ 8">
-      <change afterPath="$PROJECT_DIR$/ДЗ 9. Степень двойки [Рекурсия]/ДЗ.py" afterDir="false" />
+    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="change ДЗ 9">
+      <change afterPath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/calls.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/foo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/ДЗ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/ДЗ.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +54,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666345369069</updated>
-    </task>
-    <task id="LOCAL-00001" summary="add main.py">
-      <created>1666347805378</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1666347805378</updated>
-    </task>
-    <task id="LOCAL-00002" summary="change main.py">
-      <created>1666348033908</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1666348033908</updated>
     </task>
     <task id="LOCAL-00003" summary="change main.py, README.md and add test.py">
       <created>1666348626590</created>
@@ -396,7 +384,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669707515242</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="change ДЗ 8">
+      <created>1669711301690</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1669711301691</updated>
+    </task>
+    <task id="LOCAL-00051" summary="change ДЗ 9">
+      <created>1669711328315</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1669711328315</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -445,6 +447,7 @@
     <MESSAGE value="change ДЗ 6 and 7" />
     <MESSAGE value="change ДЗ 6" />
     <MESSAGE value="change ДЗ 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="change ДЗ 8" />
+    <MESSAGE value="change ДЗ 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="change ДЗ 9" />
   </component>
 </project>
