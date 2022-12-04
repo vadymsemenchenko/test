@@ -31,6 +31,19 @@
 # В качестве решения отправить ссылку на github репозиторий.
 
 
+# Сам декоратор-счётчик
+
+def call_times(func):
+  def wrapper(*args, **kwargs):
+    wrapper.count += 1
+    return func(*args, **kwargs)
+
+  wrapper.count = 0
+  return wrapper
+
+
+# Функция, вызовы которой нужно считать
+
 @call_times('foo.txt')
 def foo():
   pass
@@ -49,3 +62,5 @@ foo()
 foo()
 boo()
 doo()
+
+print(f.count)
