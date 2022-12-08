@@ -19,17 +19,17 @@
 #
 # print(list(c))
 
-# a = [1,2,3]
-# b = [3,5,0,5]
-#
-# custom_map = (lambda fu,*its: fu(x) for x in zip(*its))
-#
-# print(custom_map)
-
-
 
 a = [1,2,3]
 b = [3,5,0,5]
-c = map(lambda x, y:x + y, a, b)
+custom_map = lambda fu,*its: fu(x) for x in zip(*its):
 
 print(list(c))
+
+
+
+# a = [1,2,3]
+# b = [3,5,0,5]
+# c = map(lambda x, y:x + y, a, b)
+#
+# print(list(c))

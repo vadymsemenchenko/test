@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="change ДЗ 9">
-      <change afterPath="$PROJECT_DIR$/ДЗ 11. Случайная строка/ДЗ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ДЗ 12. Реализация функции map/ДЗ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ДЗ 13. Реализация функции zip/ДЗ.py" afterDir="false" />
+    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="create and change ДЗ 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/calls.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/calls.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/foo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/foo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/ДЗ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/ДЗ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ 12. Реализация функции map/ДЗ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 12. Реализация функции map/ДЗ.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ДЗ (1)">
+  <component name="RunManager" selected="Python.ДЗ (3)">
     <configuration name="ДЗ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,6 +90,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ДЗ (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/ДЗ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ДЗ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,9 +134,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ДЗ (3)" />
+        <item itemvalue="Python.ДЗ" />
         <item itemvalue="Python.ДЗ (1)" />
         <item itemvalue="Python.ДЗ (2)" />
-        <item itemvalue="Python.ДЗ" />
       </list>
     </recent_temporary>
   </component>
@@ -127,13 +149,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666345369069</updated>
-    </task>
-    <task id="LOCAL-00004" summary="change test.py">
-      <created>1666348922524</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1666348922524</updated>
     </task>
     <task id="LOCAL-00005" summary="change .gitignore">
       <created>1666352192808</created>
@@ -471,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669726668013</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="create and change ДЗ 11">
+      <created>1670155920572</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1670155920572</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -521,7 +543,8 @@
     <MESSAGE value="change ДЗ 6" />
     <MESSAGE value="change ДЗ 8" />
     <MESSAGE value="change ДЗ 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="change ДЗ 9" />
+    <MESSAGE value="create and change ДЗ 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="create and change ДЗ 11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
