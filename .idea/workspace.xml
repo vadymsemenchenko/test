@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="create and change ДЗ 11">
+    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="change ДЗ 10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/calls.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/calls.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/foo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/foo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/ДЗ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/ДЗ.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ 12. Реализация функции map/ДЗ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 12. Реализация функции map/ДЗ.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,13 +148,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666345369069</updated>
-    </task>
-    <task id="LOCAL-00005" summary="change .gitignore">
-      <created>1666352192808</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1666352192808</updated>
     </task>
     <task id="LOCAL-00006" summary="change .gitignore">
       <created>1666352257890</created>
@@ -493,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670155920572</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="change ДЗ 10">
+      <created>1670507526452</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1670507526452</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +543,8 @@
     <MESSAGE value="change ДЗ 8" />
     <MESSAGE value="change ДЗ 9" />
     <MESSAGE value="create and change ДЗ 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="create and change ДЗ 11" />
+    <MESSAGE value="change ДЗ 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="change ДЗ 10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

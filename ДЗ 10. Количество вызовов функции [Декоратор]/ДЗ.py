@@ -55,7 +55,7 @@
 # def boo():
 #     pass
 #
-# @call_times('foo.txt')
+# @call_times('calls.txt')
 # def doo():
 #     pass
 #
@@ -64,6 +64,8 @@
 #
 # for i in range(10):
 #     boo()
+#
+# dict.clear(counter)
 #
 # for i in range(15):
 #     doo()
