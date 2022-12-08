@@ -10,26 +10,22 @@
 #   pass
 
 
-
-
-
-# a = [1,2,3]
-# b = [3,5,0,5]
-# c = map(lambda x, y:x + y, a, b)
+# def custom_map(function, *iterables):
+#     out = []
+#     min_len = None
+#     for i in iterables:
+#         if min_len is None or len(i) < min_len:
+#             min_len = len(i)
+#     for i in range(min_len):
+#         args = []
+#         for j in iterables:
+#             args.append(j[i])
+#         out.append(function(*args))
+#     return out
 #
-# print(list(c))
-
-
-a = [1,2,3]
-b = [3,5,0,5]
-custom_map = lambda fu,*its: fu(x) for x in zip(*its):
-
-print(list(c))
-
-
-
-# a = [1,2,3]
-# b = [3,5,0,5]
-# c = map(lambda x, y:x + y, a, b)
+# a = [1, 2, 3]
+# b = [2, 4, 0, 6]
+# c = [4, 6, 2, 8]
+# res = custom_map(lambda x, y, z: x + y + z, a, b, c)
 #
-# print(list(c))
+# print(list(res))

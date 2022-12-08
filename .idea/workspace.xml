@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="change ДЗ 10">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/calls.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/calls.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/foo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/foo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/ДЗ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 10. Количество вызовов функции [Декоратор]/ДЗ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ 12. Реализация функции map/ДЗ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 12. Реализация функции map/ДЗ.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ДЗ (3)">
+  <component name="RunManager" selected="Python.ДЗ">
     <configuration name="ДЗ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,8 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ДЗ (3)" />
         <item itemvalue="Python.ДЗ" />
+        <item itemvalue="Python.ДЗ (3)" />
         <item itemvalue="Python.ДЗ (1)" />
         <item itemvalue="Python.ДЗ (2)" />
       </list>
@@ -148,13 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666345369069</updated>
-    </task>
-    <task id="LOCAL-00006" summary="change .gitignore">
-      <created>1666352257890</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1666352257890</updated>
     </task>
     <task id="LOCAL-00007" summary="change main.py">
       <created>1666353841421</created>
@@ -492,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670507526452</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="change ДЗ 10">
+      <created>1670510387841</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1670510387841</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
