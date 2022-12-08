@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="change ДЗ 10">
-      <change beforePath="$PROJECT_DIR$/ДЗ 12. Реализация функции map/ДЗ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 12. Реализация функции map/ДЗ.py" afterDir="false" />
-    </list>
+    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="change ДЗ 12" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,20 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666345369069</updated>
-    </task>
-    <task id="LOCAL-00007" summary="change main.py">
-      <created>1666353841421</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1666353841421</updated>
-    </task>
-    <task id="LOCAL-00008" summary="change main.py">
-      <created>1666508486709</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1666508486709</updated>
     </task>
     <task id="LOCAL-00009" summary="change main.py">
       <created>1666508921193</created>
@@ -489,7 +473,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670510387841</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="change ДЗ 12">
+      <created>1670511023897</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1670511023897</updated>
+    </task>
+    <task id="LOCAL-00057" summary="change ДЗ 12">
+      <created>1670512053850</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1670512053850</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +514,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add main.py" />
     <MESSAGE value="change main.py, README.md and add test.py" />
     <MESSAGE value="change test.py" />
     <MESSAGE value="change .gitignore" />
@@ -541,7 +538,8 @@
     <MESSAGE value="change ДЗ 9" />
     <MESSAGE value="create and change ДЗ 11" />
     <MESSAGE value="change ДЗ 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="change ДЗ 10" />
+    <MESSAGE value="change ДЗ 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="change ДЗ 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
