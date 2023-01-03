@@ -14,10 +14,28 @@
 #   pass
 # """
 
+from typing import Tuple, Iterable, List
+from copy import *
 
-seq1 = [1, 2, 3, 4, 5]
-seq2 = [9, 8, 7]
-
-seq1, seq2 = zip(*zip(seq1,seq2))
-print(seq1)
-print(seq2)
+def custom_zip(*sequences: Iterable, full=False, default=None) -> List[Tuple]:
+    sequences_list = list(sequences)
+    func_result = []
+    minimal_len = min(map(len, sequences))
+    maximal_len = max(map(len, sequences))
+    if full:
+        list_copy = deepcopy(sequences_list)
+        for argument in list_copy:
+            argument = list(argument.append(default) for _ in range(maximal_len - len(argument))
+                            if len(argument) < maximal_len)
+        for i in range(maximal_len):
+            element = []
+            for arg in list_copy:
+                element.append(arg[i])
+            func_result.append(tuple(element))
+    else:
+        for i in range(minimal_len):
+            element = []
+            for arg in sequences_list:
+                element.append(arg[i])
+            func_result.append(tuple(element))
+    print(func_result)
