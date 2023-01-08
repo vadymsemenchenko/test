@@ -25,7 +25,8 @@ def custom_zip(*sequences: Iterable, full=False, default=None) -> List[Tuple]:
     if full:
         list_copy = deepcopy(sequences_list)
         for argument in list_copy:
-            [argument.append(default) for _ in range(maximal_len - len(argument)) if len(argument) < maximal_len]
+            argument = list(argument.append(default) for _ in range(maximal_len - len(argument))
+                            if len(argument) < maximal_len)
         for i in range(maximal_len):
             element = []
             for arg in list_copy:
