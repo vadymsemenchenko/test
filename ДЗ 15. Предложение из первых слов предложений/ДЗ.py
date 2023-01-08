@@ -17,6 +17,7 @@ import re
 
 text = "Hello, cocroach. And where it is? Who, can do it?! Or vice versa!? Yes, it's difficult... Claro.."
 
+
 def generate_sentence(text: str) -> str:
     container = []
     sentence_pattern = '[A-Z]{1}[^\.\?\!]*[\.|\?|!]{1}'
@@ -31,5 +32,6 @@ def generate_sentence(text: str) -> str:
     new_sentence += '.'
     print(new_sentence)
     return new_sentence
+
 
 print(generate_sentence(text))
