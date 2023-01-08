@@ -15,12 +15,13 @@
 
 import re
 
+text = "Hello, cocroach. And where it is? Who, can do it?! Or vice versa!? Yes, it's difficult... Claro.."
 
 def generate_sentence(text: str) -> str:
     container = []
-    sentence_pattern = '[A-Z]{1} [^\.\?\!]*[\.|\?|!]{1}'
+    sentence_pattern = '[A-Z]{1}[^\.\?\!]*[\.|\?|!]{1}'
     sentences = re.findall(sentence_pattern, text)
-    first_word_pattern = '([A-Z]{1} [a-z]*)[\s|,\s\|\.]'
+    first_word_pattern = '([A-Z]{1}[a-z]*)[\s|,\s\|\.]'
     for one_sentence in sentences:
         first_word = re.findall(first_word_pattern, one_sentence)
         container.append(first_word[0])
@@ -30,3 +31,5 @@ def generate_sentence(text: str) -> str:
     new_sentence += '.'
     print(new_sentence)
     return new_sentence
+
+print(generate_sentence(text))

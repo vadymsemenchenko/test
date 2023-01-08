@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="create ДЗ 14">
+    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="create ДЗ 15">
+      <change afterPath="$PROJECT_DIR$/ДЗ 16. Классы Employee и Company/ДЗ.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ДЗ 15. Предложение из первых слов предложений/ДЗ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 15. Предложение из первых слов предложений/ДЗ.py" afterDir="false" />
     </list>
@@ -153,8 +154,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.ДЗ (5)" />
-        <item itemvalue="Python.ДЗ (4)" />
         <item itemvalue="Python.ДЗ (2)" />
+        <item itemvalue="Python.ДЗ (4)" />
         <item itemvalue="Python.ДЗ" />
         <item itemvalue="Python.ДЗ (1)" />
       </list>
@@ -168,20 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666345369069</updated>
-    </task>
-    <task id="LOCAL-00016" summary="merging main.py">
-      <created>1666511450040</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1666511450040</updated>
-    </task>
-    <task id="LOCAL-00017" summary="merging main.py">
-      <created>1666511508114</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1666511508114</updated>
     </task>
     <task id="LOCAL-00018" summary="changed ДЗ.md">
       <created>1666511723285</created>
@@ -512,7 +499,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673004592342</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="change ДЗ 13">
+      <created>1673181932451</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1673181932451</updated>
+    </task>
+    <task id="LOCAL-00066" summary="create ДЗ 15">
+      <created>1673181985144</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1673181985144</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="change main.py" />
     <MESSAGE value="changed main.py" />
     <MESSAGE value="merging main.py" />
     <MESSAGE value="changed ДЗ.md" />
@@ -562,9 +562,10 @@
     <MESSAGE value="change ДЗ 10" />
     <MESSAGE value="change ДЗ 11" />
     <MESSAGE value="change ДЗ 12" />
-    <MESSAGE value="change ДЗ 13" />
     <MESSAGE value="create ДЗ 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="create ДЗ 14" />
+    <MESSAGE value="change ДЗ 13" />
+    <MESSAGE value="create ДЗ 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="create ДЗ 15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
