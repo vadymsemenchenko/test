@@ -34,14 +34,23 @@ class Bank:
         self.clientBase.append(client)
 
     def showByMoney(self, money):
+        '''
+        Принимает количество денег и выводит информацию обо всех клиентах, у которых размер вклада больше.
+        '''
         print(f'Клиенты, у которых размер вклада больше {money}:')
         [print(x) for x in self.clientBase if x.dep_amount > money]
 
     def showByCode(self, code):
+        '''
+        Принимает код и выводит всю информацию о клиенте с данным кодом.
+        '''
         print(f'Информация о клиенте с кодом {code}:')
         [print(x) for x in self.clientBase if x.code == code]
 
     def showByProc(self, proc):
+        '''
+        Принимает процент и выводит информацию обо всех клиентах, у которых процент по вкладу больше данного.
+        '''
         print(f'Клиенты, у которых процент по вкладу больше {proc}:')
         [print(x) for x in self.clientBase if x.dep_interest > proc]
 
