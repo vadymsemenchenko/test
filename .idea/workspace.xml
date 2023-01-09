@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="create ДЗ 15">
-      <change afterPath="$PROJECT_DIR$/ДЗ 16. Классы Employee и Company/ДЗ.py" afterDir="false" />
+    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="change ДЗ 15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ 15. Предложение из первых слов предложений/ДЗ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 15. Предложение из первых слов предложений/ДЗ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ 16. Классы Employee и Company/ДЗ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 16. Классы Employee и Company/ДЗ.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,28 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ДЗ (5)">
-    <configuration name="ДЗ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ДЗ 11. Случайная строка" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЗ 11. Случайная строка/ДЗ.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ДЗ (3)">
     <configuration name="ДЗ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,6 +58,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЗ 13. Реализация функции zip/ДЗ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ДЗ (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ДЗ 16. Классы Employee и Company" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЗ 16. Классы Employee и Company/ДЗ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ДЗ (3)" />
         <item itemvalue="Python.ДЗ (5)" />
         <item itemvalue="Python.ДЗ (2)" />
         <item itemvalue="Python.ДЗ (4)" />
         <item itemvalue="Python.ДЗ" />
-        <item itemvalue="Python.ДЗ (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -169,27 +168,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666345369069</updated>
-    </task>
-    <task id="LOCAL-00018" summary="changed ДЗ.md">
-      <created>1666511723285</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1666511723285</updated>
-    </task>
-    <task id="LOCAL-00019" summary="changed ДЗ.py">
-      <created>1666511818757</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1666511818757</updated>
-    </task>
-    <task id="LOCAL-00020" summary="changed ДЗ.py">
-      <created>1666513110975</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1666513110975</updated>
     </task>
     <task id="LOCAL-00021" summary="changed ДЗ.py">
       <created>1666612391649</created>
@@ -513,7 +491,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673181985144</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="create ДЗ 15">
+      <created>1673186840410</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1673186840410</updated>
+    </task>
+    <task id="LOCAL-00068" summary="change ДЗ 15">
+      <created>1673186864749</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1673186864749</updated>
+    </task>
+    <task id="LOCAL-00069" summary="change ДЗ 15">
+      <created>1673186893957</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1673186893957</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed main.py" />
     <MESSAGE value="merging main.py" />
     <MESSAGE value="changed ДЗ.md" />
     <MESSAGE value="changed main.py 17.10 and 20.10" />
@@ -565,7 +563,8 @@
     <MESSAGE value="create ДЗ 14" />
     <MESSAGE value="change ДЗ 13" />
     <MESSAGE value="create ДЗ 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="create ДЗ 15" />
+    <MESSAGE value="change ДЗ 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="change ДЗ 15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
