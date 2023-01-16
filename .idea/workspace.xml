@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="change ДЗ 16">
-      <change afterPath="$PROJECT_DIR$/ДЗ 17. Применение принципов ООП при разработке сложных систем/ДЗ.py" afterDir="false" />
+    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="change ДЗ 17">
+      <change afterPath="$PROJECT_DIR$/ДЗ 18. Создание диаграммы классов/ДЗ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ДЗ 19. Вывод аттрибутов объекта/ДЗ.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/PycharmProjects/test&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/USER/PycharmProjects/test",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
-}</component>
-  <component name="RunManager" selected="Python.ДЗ (1)">
+}]]></component>
+  <component name="RunManager" selected="Python.ДЗ (2)">
     <configuration name="ДЗ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ДЗ 13. Реализация функции zip" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ДЗ 19. Вывод аттрибутов объекта" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЗ 13. Реализация функции zip/ДЗ.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЗ 19. Вывод аттрибутов объекта/ДЗ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ДЗ (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ДЗ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ДЗ 16. Классы Employee и Company" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ДЗ 12. Реализация функции map" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЗ 16. Классы Employee и Company/ДЗ.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЗ 12. Реализация функции map/ДЗ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ДЗ (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lib_struct_builder (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ДЗ 14. Расписание занятий" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/MyLib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЗ 14. Расписание занятий/ДЗ.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/MyLib/Lib_struct_builder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ДЗ (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lib_struct_builder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ДЗ 15. Предложение из первых слов предложений" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="D:/Загрузки" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ДЗ 15. Предложение из первых слов предложений/ДЗ.py" />
+      <option name="SCRIPT_NAME" value="D:/Загрузки/Lib_struct_builder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ДЗ (1)" />
-        <item itemvalue="Python.ДЗ (3)" />
-        <item itemvalue="Python.ДЗ (5)" />
         <item itemvalue="Python.ДЗ (2)" />
-        <item itemvalue="Python.ДЗ (4)" />
+        <item itemvalue="Python.Lib_struct_builder (1)" />
+        <item itemvalue="Python.Lib_struct_builder" />
+        <item itemvalue="Python.ДЗ" />
+        <item itemvalue="Python.ДЗ (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -168,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666345369069</updated>
-    </task>
-    <task id="LOCAL-00024" summary="changed main.py 17.10 and 20.10">
-      <created>1666698378416</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1666698378416</updated>
     </task>
     <task id="LOCAL-00025" summary="create and changed ДЗ.py">
       <created>1666703748839</created>
@@ -512,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673273433989</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="change ДЗ 17">
+      <created>1673342931312</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1673342931312</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed ДЗ.md" />
     <MESSAGE value="changed main.py 17.10 and 20.10" />
     <MESSAGE value="create and changed ДЗ.py" />
     <MESSAGE value="changed ДЗ.py" />
@@ -564,7 +564,8 @@
     <MESSAGE value="create ДЗ 15" />
     <MESSAGE value="change ДЗ 15" />
     <MESSAGE value="change ДЗ 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="change ДЗ 16" />
+    <MESSAGE value="change ДЗ 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="change ДЗ 17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
