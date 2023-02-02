@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="create and change ДЗ 18, 19">
-      <change afterPath="$PROJECT_DIR$/ДЗ 20. Декоратор skip/ДЗ.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="create and change ДЗ 20" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,13 +165,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666345369069</updated>
-    </task>
-    <task id="LOCAL-00026" summary="changed ДЗ.py">
-      <created>1666705199743</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1666705199743</updated>
     </task>
     <task id="LOCAL-00027" summary="changed ДЗ.py">
       <created>1666782929655</created>
@@ -512,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673877583925</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="create and change ДЗ 20">
+      <created>1675320762612</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1675320762613</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +536,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="create and changed ДЗ.py" />
     <MESSAGE value="changed ДЗ.py" />
     <MESSAGE value="add and change main.py 24.10" />
     <MESSAGE value="add and change ДЗ.py строки" />
@@ -564,7 +560,8 @@
     <MESSAGE value="change ДЗ 16" />
     <MESSAGE value="change ДЗ 17" />
     <MESSAGE value="create and change ДЗ 18, 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="create and change ДЗ 18, 19" />
+    <MESSAGE value="create and change ДЗ 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="create and change ДЗ 20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
