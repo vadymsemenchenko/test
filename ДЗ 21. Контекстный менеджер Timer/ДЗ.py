@@ -25,6 +25,9 @@
 # print(t2.elapsed_time)  # ~2 seconds
 
 
+import time
+
+
 class Timer:
 
     def __init__(self):
