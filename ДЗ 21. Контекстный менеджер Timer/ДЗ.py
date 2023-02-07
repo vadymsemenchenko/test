@@ -30,16 +30,13 @@ class Timer:
     def __init__(self):
         self.elapsed_time = 0
 
-
     def __enter__(self):
         self.start_time = time.time()
         return self
 
-
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.stop_time = time.time()
-        self.elapsed_time =+ self.stop_time - self.start_time
+        self.elapsed_time += self.stop_time - self.start_time
 
-
-    def reset(selfself):
+    def reset(self):
         self.elapsed_time = 0
