@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="create and change ДЗ 22">
+    <list default="true" id="556d78ed-039f-41db-9704-7063391ad9bb" name="Changes" comment="create and change ДЗ 21">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ДЗ 21. Контекстный менеджер Timer/ДЗ.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ 21. Контекстный менеджер Timer/ДЗ.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,20 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666345369069</updated>
-    </task>
-    <task id="LOCAL-00030" summary="add and change ДЗ.py строки">
-      <created>1666953018155</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1666953018155</updated>
-    </task>
-    <task id="LOCAL-00031" summary="add 27.10 main.py">
-      <created>1666953105666</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1666953105666</updated>
     </task>
     <task id="LOCAL-00032" summary="change ДЗ.py строки">
       <created>1667026112002</created>
@@ -512,7 +497,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675415834380</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="create and change ДЗ 21">
+      <created>1675769743328</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1675769743331</updated>
+    </task>
+    <task id="LOCAL-00080" summary="create and change ДЗ 21">
+      <created>1675769957406</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1675769957406</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -562,9 +561,9 @@
     <MESSAGE value="change ДЗ 17" />
     <MESSAGE value="create and change ДЗ 18, 19" />
     <MESSAGE value="create and change ДЗ 20" />
-    <MESSAGE value="create and change ДЗ 21" />
     <MESSAGE value="create and change ДЗ 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="create and change ДЗ 22" />
+    <MESSAGE value="create and change ДЗ 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="create and change ДЗ 21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
